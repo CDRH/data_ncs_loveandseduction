@@ -27,7 +27,7 @@
       "sortMissingLast":true
     },
     {
-      "name":"place",
+      "name":"nationality",
       "type":"string",
       "stored":true,
       "indexed":true,
@@ -36,7 +36,7 @@
       "sortMissingLast":true
     },
     {
-      "name":"genre",
+      "name":"category",
       "type":"string",
       "stored":true,
       "indexed":true,
@@ -45,7 +45,16 @@
       "sortMissingLast":true
     },
     {
-      "name":"topic",
+      "name":"theme",
+      "type":"string",
+      "stored":true,
+      "indexed":true,
+      "required":false,
+      "multiValued":true,
+      "sortMissingLast":true
+    },
+    {
+      "name":"setting",
       "type":"string",
       "stored":true,
       "indexed":true,
