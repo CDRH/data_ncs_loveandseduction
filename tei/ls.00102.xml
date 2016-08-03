@@ -5,7 +5,7 @@
 
 
 
-<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD EXAMPLE.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD EXAMPLE.dtd (UNL Etext Center)//EN" "../config/19thCenturyStudies.dtd" [
 <!ENTITY ID SYSTEM "ID.jpg" NDATA jpeg>
 
 ]>

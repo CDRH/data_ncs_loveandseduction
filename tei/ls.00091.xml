@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
 
-<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD ../config/19thCenturyStudies.dtd (UNL Etext Center)//EN" "../config/19thCenturyStudies.dtd" [
 
 ]>
 <TEI.2 id="ls.00091">
