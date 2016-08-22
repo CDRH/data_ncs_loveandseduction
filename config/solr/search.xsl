@@ -51,7 +51,7 @@
                      <xsl:otherwise>
                         <a>
                            <xsl:attribute name="href">
-                              <xsl:text>http://cdrhsearch.unl.edu:8080/solr/loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
+                              <xsl:text>http://ncsmodules.unl.edu/solr/ncs_loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
                               <xsl:value-of select="$searchTerm"/>
                               <xsl:text>&#38;start=</xsl:text>
                               <xsl:value-of select="$start - $rows"/>
@@ -65,7 +65,7 @@
                      <xsl:otherwise>
                         <a>
                            <xsl:attribute name="href">
-                              <xsl:text>http://cdrhsearch.unl.edu:8080/solr/loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
+                              <xsl:text>http://ncsmodules.unl.edu/solr/ncs_loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
                               <xsl:value-of select="$searchTerm"/>
                               <xsl:text>&#38;start=</xsl:text>
                               <xsl:value-of select="$start + $rows"/>
@@ -80,7 +80,7 @@
                         <li>
                            <a>
                               <xsl:attribute name="href">
-                                 <xsl:text>http://ncsmodules.unl.edu/loveandseduction/content.php?id=</xsl:text>
+                                 <xsl:text>http://ncsmodules.unl.edu/ncs_loveandseduction/content.php?id=</xsl:text>
                                  <xsl:value-of select="str[@name='id']"/>
                               </xsl:attribute>
                               <xsl:value-of select="str[@name='title']"/>
@@ -93,7 +93,7 @@
                      <xsl:otherwise>
                         <a>
                            <xsl:attribute name="href">
-                              <xsl:text>http://cdrhsearch.unl.edu:8080/solr/loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
+                              <xsl:text>http://ncsmodules.unl.edu/solr/ncs_loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
                               <xsl:value-of select="$searchTerm"/>
                               <xsl:text>&#38;start=</xsl:text>
                               <xsl:value-of select="$start - $rows"/>
@@ -107,7 +107,7 @@
                      <xsl:otherwise>
                         <a>
                            <xsl:attribute name="href">
-                              <xsl:text>http://cdrhsearch.unl.edu:8080/solr/loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
+                              <xsl:text>http://ncsmodules.unl.edu/solr/ncs_loveandseduction/select?echoParams=all&#38;indent=on&#38;version=2.2&#38;q=</xsl:text>
                               <xsl:value-of select="$searchTerm"/>
                               <xsl:text>&#38;start=</xsl:text>
                               <xsl:value-of select="$start + $rows"/>
