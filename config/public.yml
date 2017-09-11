@@ -1,5 +1,5 @@
 default:
-  shortname: ncs_loveandseduction
+  es_type: ncs_loveandseduction
   solr_core: ncs_loveandseduction
   tei_solr_xsl: projects/ncs_loveandseduction/scripts/solr_transform_tei.xsl
 
