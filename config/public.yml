@@ -1,5 +1,5 @@
 default:
-  es_type: ncs_loveandseduction
+  collection: ncs_loveandseduction
   solr_core: ncs_loveandseduction
-  tei_solr_xsl: collections/ncs_loveandseduction/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
 
