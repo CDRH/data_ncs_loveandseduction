@@ -1,7 +1,7 @@
 # data_ncs_loveandseduction
 TEI Repository for [19th Century Studies](ncsmodules.unl.edu) Love and Seduction project
 
-This repository is intended to be used in conjunction with the [data repository](https://github.com/CDRH/data).
+This repository is intended to be used in conjunction with [Datura](https://github.com/CDRH/datura).
 
 This TEI is now several years old and was not created with the standards currently used by the [CDRH](cdrh.unl.edu).
 
